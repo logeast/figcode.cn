@@ -43,3 +43,8 @@ p {
     font-weight: 700;
     letter-spacing: .0045em;
 }
+footer {
+    margin-top: auto;
+    display:flex;
+    gap: 12px;
+}
