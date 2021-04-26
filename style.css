@@ -11,7 +11,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    position: relative;
+    font-family: "Alegreya", "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 }
 
 a {
@@ -43,10 +44,13 @@ p {
     font-weight: 700;
     letter-spacing: .0045em;
 }
+
 footer {
     margin-top: auto;
-    display:flex;
+    display: flex;
     justify-content: center;
     align-items: center;
     gap: 12px;
+    position: absolute;
+    bottom: 12px;
 }
