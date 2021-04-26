@@ -1,3 +1,3 @@
-# logeast.cn
+# figcode.cn
 
-[https://logeast.cn](https://logeast.cn)
+[https://figcode.cn](https://figcode.cn)
